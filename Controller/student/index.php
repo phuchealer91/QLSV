@@ -103,6 +103,8 @@
       break;
     }
     default: {
+      $qrtable = "sinhvien";
+      $data = $db->getAllData($qrtable);
       require_once('View/student/list_student.php');
     break;
     }

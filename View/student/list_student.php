@@ -15,7 +15,7 @@
       </form>
       </div>
     <div class="d-flex align-items-center justify-content-between">
-   <h3 class="mb-4">Danh sách sinh viên</h3>
+   <h5 class="mb-4">Danh sách sinh viên</h5>
    <a href="index.php?controller=student&action=add" class="btn btn-primary block">Thêm mới sinh viên</a>
    </div>
     <table class="table table-striped mt-4">

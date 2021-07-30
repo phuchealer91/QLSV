@@ -1,7 +1,7 @@
 <div class="container">
     <div div class="my-5">
    <div class="d-flex align-items-center justify-content-between">
-   <h3 class="mb-4">Thêm mới sinh viên</h3>
+   <h5 class="mb-4">Thêm mới sinh viên</h5>
    <a href="index.php?controller=student&action=list" class="btn btn-primary block">Danh sách sinh viên</a>
    </div>
     <form action="" method="POST">
